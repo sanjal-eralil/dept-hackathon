@@ -1,0 +1,29 @@
+.navbar{
+    height:20%;
+    background-color:#FFC580 ;
+  }
+  .navi{
+    width: 100%;
+     margin-top: 0;
+  
+  
+  }
+  .heading{
+    height: 5%;
+    text-align: center;
+    background-color: #5F9EA0;
+  }
+  body{
+    background-color: #FAEFE0;
+    
+  }
+
+  #button{
+    margin-left: 10%;
+    margin-top: 30%;
+  }
+  body {
+    background-image: url("homeimage.jpeg");
+    background-repeat: no-repeat;
+    align-items: center;
+  }
